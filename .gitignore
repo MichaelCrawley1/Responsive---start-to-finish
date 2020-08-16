@@ -30,11 +30,11 @@ Temporary Items
 .apdisk
 
 ### Sass ###
-.sass-cache/
+.sass-cache/*
 *.css.map
 *.sass.map
 *.scss.map
-/sass
+/sass*
 
 ###node modules####
 /node_modules
