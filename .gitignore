@@ -35,4 +35,8 @@ Temporary Items
 *.sass.map
 *.scss.map
 
+###node modules####
+/node_modules
+package-lock.json
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,sass
