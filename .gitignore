@@ -41,5 +41,10 @@ Temporary Items
 ###node modules####
 /node_modules
 package-lock.json
+package.json
 
+
+
+####gulp#####
+gulpfile.js
 # End of https://www.toptal.com/developers/gitignore/api/macos,sass
