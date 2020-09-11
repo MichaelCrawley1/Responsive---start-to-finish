@@ -447,6 +447,9 @@ p.title-footer {
       margin-top: 1em;
       margin-left: 2em;
       left: 0; } }
+  @media (min-width: 700px) {
+    .main-nav {
+      transition: all ease 1ms; } }
   .main-nav ul {
     display: flex;
     flex-direction: column;
@@ -493,7 +496,8 @@ p.title-footer {
   cursor: pointer; }
   @media (min-width: 725px) {
     .nav-toggle {
-      display: none; } }
+      display: none;
+      background: none; } }
 
 .hamburger, .hamburger::before, .hamburger::after {
   content: '';
